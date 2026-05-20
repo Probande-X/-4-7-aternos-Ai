@@ -1,15 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Wendy",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "KNIGHTSMP-r3vG.aternos.me",
     "port": 30955,
-    "version": "1.20.1",
-    "try-creative": false
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
@@ -20,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "Perzuu"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,14 +28,14 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 100,
+      "repeat-delay": 500,
       "messages": [
-        "I'm a regular potato farmer",
-        "Subscribe to Technoblade!",
-        "Want Cheap potatoes come to my shop",
-        "Technoblades never dies",
-        "I need some potatoes in loan"
-        
+        "Meow~ Wendy here! Need help with teleports, warps, or just a headpat?",
+        "I see you died again. I’ll keep your items safe next time, okay?",
+        "Someone left a chest open. Was it you? … I’m not mad, just disappointed.",
+        "Type /kit cat to get some fish. For me, not for you.",
+        "Afk? No problem, I’ll sit on your head until you’re back.",
+        "That’s a long fall. Want me to calculate the exact damage? Just kidding, I can’t math.",
       ]
     },
     "chat-log": true,
