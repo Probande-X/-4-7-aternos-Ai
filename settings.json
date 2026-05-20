@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
@@ -29,11 +29,14 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 100,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "I'm a regular potato farmer",
+        "Subscribe to Technoblade!",
+        "Want Cheap potatoes come to my shop",
+        "Technoblades never dies",
+        "I need some potatoes in loan"
+        
       ]
     },
     "chat-log": true,
